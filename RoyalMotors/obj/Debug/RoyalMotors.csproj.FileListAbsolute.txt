@@ -1,0 +1,6 @@
+Z:\ИСПк-034\Хусяинова Камилла\RoyalMotors\bin\Debug\RoyalMotors.exe
+Z:\ИСПк-034\Хусяинова Камилла\RoyalMotors\bin\Debug\RoyalMotors.pdb
+Z:\ИСПк-034\Хусяинова Камилла\RoyalMotors\obj\Debug\RoyalMotors.csproj.AssemblyReference.cache
+Z:\ИСПк-034\Хусяинова Камилла\RoyalMotors\obj\Debug\RoyalMotors.csproj.CoreCompileInputs.cache
+Z:\ИСПк-034\Хусяинова Камилла\RoyalMotors\obj\Debug\RoyalMotors.exe
+Z:\ИСПк-034\Хусяинова Камилла\RoyalMotors\obj\Debug\RoyalMotors.pdb
